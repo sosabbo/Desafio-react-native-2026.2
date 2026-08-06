@@ -7,9 +7,13 @@ module.exports = {
   theme: {
     extend: {colors,
         fontSize: {
+            principal: '40px',
             titulo: '24px',
             st: '16px',
             txt: '12px'
+        },
+        fontFamily: {
+          hy: ['ZhCn'],
         }
     },
   },
