@@ -14,6 +14,7 @@ module.exports = {
         },
         fontFamily: {
           hy: ['ZhCn'],
+          inter: ['Inter'],
         }
     },
   },

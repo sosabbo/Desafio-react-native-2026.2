@@ -12,6 +12,7 @@ const queryClient = new QueryClient();
 export default function RootLayout() {
   const [loaded, error] = useFonts({
     ZhCn: require("../../assets/fonts/zh-cn.ttf"),
+    Inter: require("../../assets/fonts/Inter.ttf"),
   });
 
   useEffect(() => {
