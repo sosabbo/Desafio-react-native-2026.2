@@ -10,5 +10,6 @@ export const colors = {
     "Sky": "#C8D9E6",
     "Sky-texto": "#597F8B",
     "Fundo": "#2C3B4D",
-    "Fundo-profundo": "#1C2836"
+    "Fundo-profundo": "#1C2836",
+    "Azul": "#2F4156"
 };
